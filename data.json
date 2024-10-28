@@ -1,118 +1,322 @@
 {
   "September": [
-    "A",
-    "B",
+    {
+      "letter": "A",
+      "halfDay": false
+    },
+    {
+      "letter": "B",
+      "halfDay": false
+    },
     "",
     "",
-    "C",
-    "D",
-    "E",
-    "F",
-    "G",
+    {
+      "letter": "C",
+      "halfDay": false
+    },
+    {
+      "letter": "D",
+      "halfDay": false
+    },
+    {
+      "letter": "E",
+      "halfDay": false
+    },
+    {
+      "letter": "F",
+      "halfDay": false
+    },
+    {
+      "letter": "G",
+      "halfDay": false
+    },
     "",
     "",
-    "A",
-    "B",
-    "C",
-    "D",
-    "E",
+    {
+      "letter": "A",
+      "halfDay": false
+    },
+    {
+      "letter": "B",
+      "halfDay": false
+    },
+    {
+      "letter": "C",
+      "halfDay": false
+    },
+    {
+      "letter": "D",
+      "halfDay": true
+    },
+    {
+      "letter": "E",
+      "halfDay": false
+    },
     "",
     "",
-    "F",
-    "G",
-    "A",
-    "B",
-    "C",
+    {
+      "letter": "F",
+      "halfDay": false
+    },
+    {
+      "letter": "G",
+      "halfDay": false
+    },
+    {
+      "letter": "A",
+      "halfDay": false
+    },
+    {
+      "letter": "B",
+      "halfDay": true
+    },
+    {
+      "letter": "C",
+      "halfDay": false
+    },
     "",
     "",
-    "D"
+    {
+      "letter": "D",
+      "halfDay": false
+    }
   ],
   "October": [
-    "E",
-    "F",
+    {
+      "letter": "E",
+      "halfDay": false
+    },
+    {
+      "letter": "F",
+      "halfDay": false
+    },
     "",
     "",
     "",
     "",
-    "G",
-    "A",
-    "B",
-    "C",
-    "D",
+    {
+      "letter": "G",
+      "halfDay": false
+    },
+    {
+      "letter": "A",
+      "halfDay": false
+    },
+    {
+      "letter": "B",
+      "halfDay": false
+    },
+    {
+      "letter": "C",
+      "halfDay": false
+    },
+    {
+      "letter": "D",
+      "halfDay": false
+    },
     "",
     "",
     "",
-    "E",
-    "F",
-    "G",
-    "A",
+    {
+      "letter": "E",
+      "halfDay": false
+    },
+    {
+      "letter": "F",
+      "halfDay": false
+    },
+    {
+      "letter": "G",
+      "halfDay": false
+    },
+    {
+      "letter": "A",
+      "halfDay": false
+    },
     "",
     "",
-    "B",
-    "C",
-    "D",
+    {
+      "letter": "B",
+      "halfDay": false
+    },
+    {
+      "letter": "C",
+      "halfDay": false
+    },
+    {
+      "letter": "D",
+      "halfDay": false
+    },
     "",
-    "E",
+    {
+      "letter": "E",
+      "halfDay": false
+    },
     "",
     "",
-    "F",
-    "G",
-    "A",
-    "B"
+    {
+      "letter": "F",
+      "halfDay": false
+    },
+    {
+      "letter": "G",
+      "halfDay": false
+    },
+    {
+      "letter": "A",
+      "halfDay": false
+    },
+    {
+      "letter": "B",
+      "halfDay": false
+    }
   ],
   "November": [
-    "C",
+    {
+      "letter": "C",
+      "halfDay": false
+    },
     "",
     "",
-    "D",
-    "E",
-    "F",
+    {
+      "letter": "D",
+      "halfDay": false
+    },
+    {
+      "letter": "E",
+      "halfDay": false
+    },
+    {
+      "letter": "F",
+      "halfDay": false
+    },
     "",
     "",
     "",
     "",
     "",
-    "G",
-    "A",
-    "B",
-    "C",
+    {
+      "letter": "G",
+      "halfDay": false
+    },
+    {
+      "letter": "A",
+      "halfDay": false
+    },
+    {
+      "letter": "B",
+      "halfDay": false
+    },
+    {
+      "letter": "C",
+      "halfDay": true
+    },
     "",
     "",
-    "D",
-    "E",
-    "F",
-    "G",
-    "A",
+    {
+      "letter": "D",
+      "halfDay": false
+    },
+    {
+      "letter": "E",
+      "halfDay": false
+    },
+    {
+      "letter": "F",
+      "halfDay": false
+    },
+    {
+      "letter": "G",
+      "halfDay": false
+    },
+    {
+      "letter": "A",
+      "halfDay": false
+    },
     "",
     "",
-    "B",
-    "C",
-    "D",
+    {
+      "letter": "B",
+      "halfDay": false
+    },
+    {
+      "letter": "C",
+      "halfDay": false
+    },
+    {
+      "letter": "D",
+      "halfDay": true
+    },
     "",
     "",
     ""
   ],
   "December": [
     "",
-    "E",
-    "F",
-    "G",
-    "A",
-    "B",
+    {
+      "letter": "E",
+      "halfDay": false
+    },
+    {
+      "letter": "F",
+      "halfDay": false
+    },
+    {
+      "letter": "G",
+      "halfDay": false
+    },
+    {
+      "letter": "A",
+      "halfDay": false
+    },
+    {
+      "letter": "B",
+      "halfDay": false
+    },
     "",
     "",
-    "C",
-    "D",
-    "E",
-    "F",
-    "G",
+    {
+      "letter": "C",
+      "halfDay": false
+    },
+    {
+      "letter": "D",
+      "halfDay": false
+    },
+    {
+      "letter": "E",
+      "halfDay": false
+    },
+    {
+      "letter": "F",
+      "halfDay": false
+    },
+    {
+      "letter": "G",
+      "halfDay": false
+    },
     "",
     "",
-    "A",
-    "B",
-    "C",
-    "D",
-    "E",
+    {
+      "letter": "A",
+      "halfDay": false
+    },
+    {
+      "letter": "B",
+      "halfDay": false
+    },
+    {
+      "letter": "C",
+      "halfDay": false
+    },
+    {
+      "letter": "D",
+      "halfDay": false
+    },
+    {
+      "letter": "E",
+      "halfDay": true
+    },
     "",
     "",
     "",
@@ -127,112 +331,322 @@
   ],
   "January": [
     "",
-    "F",
-    "G",
+    {
+      "letter": "F",
+      "halfDay": false
+    },
+    {
+      "letter": "G",
+      "halfDay": false
+    },
     "",
     "",
-    "A",
-    "B",
-    "C",
-    "D",
-    "E",
+    {
+      "letter": "A",
+      "halfDay": false
+    },
+    {
+      "letter": "B",
+      "halfDay": false
+    },
+    {
+      "letter": "C",
+      "halfDay": false
+    },
+    {
+      "letter": "D",
+      "halfDay": false
+    },
+    {
+      "letter": "E",
+      "halfDay": false
+    },
     "",
     "",
-    "F",
-    "G",
-    "A",
-    "B",
-    "C",
+    {
+      "letter": "F",
+      "halfDay": false
+    },
+    {
+      "letter": "G",
+      "halfDay": false
+    },
+    {
+      "letter": "A",
+      "halfDay": false
+    },
+    {
+      "letter": "B",
+      "halfDay": false
+    },
+    {
+      "letter": "C",
+      "halfDay": false
+    },
     "",
     "",
     "",
-    "D",
-    "E",
-    "F",
-    "G",
+    {
+      "letter": "D",
+      "halfDay": false
+    },
+    {
+      "letter": "E",
+      "halfDay": false
+    },
+    {
+      "letter": "F",
+      "halfDay": false
+    },
+    {
+      "letter": "G",
+      "halfDay": false
+    },
     "",
     "",
-    "A",
-    "B",
-    "C",
-    "D",
-    "E"
+    {
+      "letter": "A",
+      "halfDay": false
+    },
+    {
+      "letter": "B",
+      "halfDay": false
+    },
+    {
+      "letter": "C",
+      "halfDay": false
+    },
+    {
+      "letter": "D",
+      "halfDay": false
+    },
+    {
+      "letter": "E",
+      "halfDay": false
+    }
   ],
   "Febuary": [
     "",
     "",
-    "F",
-    "G",
-    "A",
-    "B",
-    "C",
+    {
+      "letter": "F",
+      "halfDay": false
+    },
+    {
+      "letter": "G",
+      "halfDay": false
+    },
+    {
+      "letter": "A",
+      "halfDay": false
+    },
+    {
+      "letter": "B",
+      "halfDay": false
+    },
+    {
+      "letter": "C",
+      "halfDay": false
+    },
     "",
     "",
-    "D",
-    "E",
-    "F",
-    "G",
-    "A",
+    {
+      "letter": "D",
+      "halfDay": false
+    },
+    {
+      "letter": "E",
+      "halfDay": false
+    },
+    {
+      "letter": "F",
+      "halfDay": false
+    },
+    {
+      "letter": "G",
+      "halfDay": false
+    },
+    {
+      "letter": "A",
+      "halfDay": true
+    },
     "",
     "",
     "",
-    "B",
-    "C",
-    "D",
-    "E",
+    {
+      "letter": "B",
+      "halfDay": false
+    },
+    {
+      "letter": "C",
+      "halfDay": false
+    },
+    {
+      "letter": "D",
+      "halfDay": false
+    },
+    {
+      "letter": "E",
+      "halfDay": false
+    },
     "",
     "",
-    "F",
-    "G",
-    "A",
-    "B",
-    "C"
+    {
+      "letter": "F",
+      "halfDay": false
+    },
+    {
+      "letter": "G",
+      "halfDay": false
+    },
+    {
+      "letter": "A",
+      "halfDay": false
+    },
+    {
+      "letter": "B",
+      "halfDay": false
+    },
+    {
+      "letter": "C",
+      "halfDay": false
+    }
   ],
   "March": [
     "",
     "",
-    "D",
-    "E",
-    "F",
-    "G",
-    "A",
+    {
+      "letter": "D",
+      "halfDay": false
+    },
+    {
+      "letter": "E",
+      "halfDay": false
+    },
+    {
+      "letter": "F",
+      "halfDay": false
+    },
+    {
+      "letter": "G",
+      "halfDay": false
+    },
+    {
+      "letter": "A",
+      "halfDay": false
+    },
     "",
     "",
-    "B",
-    "C",
-    "D",
-    "E",
-    "F",
+    {
+      "letter": "B",
+      "halfDay": true
+    },
+    {
+      "letter": "C",
+      "halfDay": true
+    },
+    {
+      "letter": "D",
+      "halfDay": true
+    },
+    {
+      "letter": "E",
+      "halfDay": true
+    },
+    {
+      "letter": "F",
+      "halfDay": false
+    },
     "",
     "",
-    "G",
-    "A",
-    "B",
-    "C",
-    "D",
+    {
+      "letter": "G",
+      "halfDay": false
+    },
+    {
+      "letter": "A",
+      "halfDay": false
+    },
+    {
+      "letter": "B",
+      "halfDay": false
+    },
+    {
+      "letter": "C",
+      "halfDay": false
+    },
+    {
+      "letter": "D",
+      "halfDay": false
+    },
     "",
     "",
-    "E",
-    "F",
-    "G",
-    "A",
-    "B",
+    {
+      "letter": "E",
+      "halfDay": false
+    },
+    {
+      "letter": "F",
+      "halfDay": false
+    },
+    {
+      "letter": "G",
+      "halfDay": false
+    },
+    {
+      "letter": "A",
+      "halfDay": false
+    },
+    {
+      "letter": "B",
+      "halfDay": false
+    },
     "",
     "",
-    "C"
+    {
+      "letter": "C",
+      "halfDay": false
+    }
   ],
   "April": [
-    "D",
-    "E",
-    "F",
-    "G",
+    {
+      "letter": "D",
+      "halfDay": false
+    },
+    {
+      "letter": "E",
+      "halfDay": false
+    },
+    {
+      "letter": "F",
+      "halfDay": false
+    },
+    {
+      "letter": "G",
+      "halfDay": false
+    },
     "",
     "",
-    "A",
-    "B",
-    "C",
-    "D",
-    "E",
+    {
+      "letter": "A",
+      "halfDay": false
+    },
+    {
+      "letter": "B",
+      "halfDay": false
+    },
+    {
+      "letter": "C",
+      "halfDay": false
+    },
+    {
+      "letter": "D",
+      "halfDay": false
+    },
+    {
+      "letter": "E",
+      "halfDay": true
+    },
     "",
     "",
     "",
@@ -243,67 +657,190 @@
     "",
     "",
     "",
-    "F",
-    "G",
-    "A",
-    "B",
+    {
+      "letter": "F",
+      "halfDay": false
+    },
+    {
+      "letter": "G",
+      "halfDay": false
+    },
+    {
+      "letter": "A",
+      "halfDay": false
+    },
+    {
+      "letter": "B",
+      "halfDay": false
+    },
     "",
     "",
-    "C",
-    "D",
-    "E"
+    {
+      "letter": "C",
+      "halfDay": false
+    },
+    {
+      "letter": "D",
+      "halfDay": false
+    },
+    {
+      "letter": "E",
+      "halfDay": false
+    }
   ],
   "May": [
-    "F",
-    "G",
+    {
+      "letter": "F",
+      "halfDay": false
+    },
+    {
+      "letter": "G",
+      "halfDay": false
+    },
     "",
     "",
-    "A",
-    "B",
-    "C",
-    "D",
-    "E",
+    {
+      "letter": "A",
+      "halfDay": false
+    },
+    {
+      "letter": "B",
+      "halfDay": false
+    },
+    {
+      "letter": "C",
+      "halfDay": false
+    },
+    {
+      "letter": "D",
+      "halfDay": false
+    },
+    {
+      "letter": "E",
+      "halfDay": false
+    },
     "",
     "",
-    "F",
-    "G",
-    "A",
-    "B",
-    "C",
+    {
+      "letter": "F",
+      "halfDay": false
+    },
+    {
+      "letter": "G",
+      "halfDay": false
+    },
+    {
+      "letter": "A",
+      "halfDay": false
+    },
+    {
+      "letter": "B",
+      "halfDay": false
+    },
+    {
+      "letter": "C",
+      "halfDay": false
+    },
     "",
     "",
-    "D",
-    "E",
-    "F",
-    "G",
-    "A",
+    {
+      "letter": "D",
+      "halfDay": false
+    },
+    {
+      "letter": "E",
+      "halfDay": false
+    },
+    {
+      "letter": "F",
+      "halfDay": false
+    },
+    {
+      "letter": "G",
+      "halfDay": false
+    },
+    {
+      "letter": "A",
+      "halfDay": false
+    },
     "",
     "",
     "",
-    "B",
-    "C",
-    "D",
-    "E"
+    {
+      "letter": "B",
+      "halfDay": false
+    },
+    {
+      "letter": "C",
+      "halfDay": false
+    },
+    {
+      "letter": "D",
+      "halfDay": false
+    },
+    {
+      "letter": "E",
+      "halfDay": false
+    }
   ],
   "June": [
     "",
-    "F",
-    "G",
-    "A",
-    "B",
-    "C",
+    {
+      "letter": "F",
+      "halfDay": false
+    },
+    {
+      "letter": "G",
+      "halfDay": false
+    },
+    {
+      "letter": "A",
+      "halfDay": false
+    },
+    {
+      "letter": "B",
+      "halfDay": false
+    },
+    {
+      "letter": "C",
+      "halfDay": false
+    },
     "",
     "",
-    "D",
-    "E",
-    "F",
-    "G",
-    "A",
+    {
+      "letter": "D",
+      "halfDay": false
+    },
+    {
+      "letter": "E",
+      "halfDay": false
+    },
+    {
+      "letter": "F",
+      "halfDay": false
+    },
+    {
+      "letter": "G",
+      "halfDay": false
+    },
+    {
+      "letter": "A",
+      "halfDay": false
+    },
     "",
     "",
-    "B",
-    "C",
-    "D"
+    {
+      "letter": "B",
+      "halfDay": false
+    },
+    {
+      "letter": "C",
+      "halfDay": false
+    },
+    {
+      "letter": "D",
+      "halfDay": true
+    }
   ],
   "July": [],
   "August": []

@@ -190,10 +190,10 @@ function generateLetterDay() {
                     }
                     break;
                case 10:
-                    letterDays.October = [24];
+                    letterDays.October = [];
                     for (ii = 1; ii <= 31; ii++) {
                          let skippedDays = [3, 4, 14, 24];
-                         let halfDays = [];
+                         let halfDays = [24];
                          if (ii % 7 != 5 && ii % 7 != 6 && !(skippedDays.includes(ii))) {
                               let dayObj = {
                                    letter: null,
@@ -216,10 +216,10 @@ function generateLetterDay() {
                     }
                     break;
                case 11:
-                    letterDays.November = [15, 27];
+                    letterDays.November = [];
                     for (ii = 1; ii <= 30; ii++) {
                          let skippedDays = [7, 8, 11, 28, 29];
-                         let halfDays = [];
+                         let halfDays = [15, 27];
                          if (ii % 7 != 2 && ii % 7 != 3 && !(skippedDays.includes(ii))) {
                               let dayObj = {
                                    letter: null,
@@ -300,5 +300,4 @@ let day = date.getDate();
 let currentMonth = date.toLocaleString('default', { month: 'long' });
 console.log(currentMonth);
 console.log(day);
-
-console.log(letterDays);
+console.log(letterDays[currentMonth][day - 1].halfDay);
